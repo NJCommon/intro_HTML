@@ -1,5 +1,5 @@
 # blackbird.spy
-<!DOCTYPE html>
+
 <html>
 
     <head>
